@@ -1,3 +1,8 @@
+[Laracast Tutorial][1] on [Video.js][2]
+
+  [1]:https://laracasts.com/series/how-to-use-html5-video-and-videojs
+  [2]:http://videojs.com/
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
