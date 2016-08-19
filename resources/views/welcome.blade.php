@@ -7,7 +7,8 @@
 
     </head>
     <body>
-        <video controls>
+        <!--<video controls autoplay>-->
+        <video controls preload="auto" poster="http://vjs.zencdn.net/v/oceans.png">
           <source src="http://vjs.zencdn.net/v/oceans.mp4" type="video/mp4"></source>
           <p>not supported</p>
         </video>
